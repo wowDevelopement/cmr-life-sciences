@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    
+    
+}
+.banner{
+    width: 100vw;
+    height: 100vh;
+
+}
+header img{
+    width: 12.25rem;
+    height: 6.875rem;
+    margin-left: 230px;
+    margin-top: 14px;
+}
+.navbar ul{
+    display: flex;
+    position: relative;
+    left: 170px;
+    top: -80PX;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+.navbar li{
+    margin: 5px;
+    padding: 5px;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    
+}
