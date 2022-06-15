@@ -133,6 +133,13 @@ button {
     color: white;
     font-size: larger;
     font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    background: green;
+    color: white;
 }
 
 .contactForm form{
